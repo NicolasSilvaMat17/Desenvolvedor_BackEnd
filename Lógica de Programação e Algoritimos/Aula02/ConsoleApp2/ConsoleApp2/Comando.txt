@@ -1,0 +1,63 @@
+using static System.Console;
+
+//SAIDA DE DADOS
+ForegroundColor = ConsoleColor.White; Muda cor da letra
+BackgroundColor = ConsoleColor.Magenta; uda o fundo da letra
+double numero = 1.73598597;
+WriteLine($"Salario = {numero:n}");
+Console.WriteLine("Hello," +
+    " World!");
+Console.Write("SENAI");//saida de dados
+WriteLine("\tClodoaldo");
+Beep();
+Write("BRASIL");
+WriteLine("CAMPEAO\nClodoaldo");
+Title = "Aplicativo SENAI";
+string escola = "AMERICANA";
+WriteLine($"SENAI {escola}");
+ForegroundColor = ConsoleColor.Red;
+WriteLine("\t\t\tMESSI");
+ForegroundColor = ConsoleColor.Blue;
+WriteLine("SENAI");
+ResetColor();
+WriteLine("MESSI");
+ReadKey();
+
+
+// Processamento de dados
+// Operadores aritméticos
+int a =1 + 1;  //Op soma
+int b =2 - 1;  //Op subtração
+int c = 3 * 1;  //Op mult
+double d = 4 / 1;  //Op divisão
+double e = 2 * 2 * 2;  //Op potenciação
+double f = Math.Sqrt(4);  //Raiz quadrada
+Math.Pow(2, 3); //Potencia de 2 elevao a 3 
+double k = 1 + (1 - (2 * 3)) / 4;
+double j = 2 % 2; //Modulo:resto da divisão
+int y = 0;
+Console.WriteLine(y);
+y++; //Incremento: mesma coisa que y = y + 1;
+Console.WriteLine(y);
+y--; //Decremento: esma coisa que y = y - 1;
+Console.WriteLine(y);
+y += 2; //Mesma coisa que y = y + 2;
+Console.WriteLine(y);
+y -= 2; //
+Console.WriteLine(y);
+y *= 2; //Mesma coisa que y = y * 2;
+Console.WriteLine(y);
+y /= 2; //Mesma coisa que y = y / 2;
+Console.WriteLine(y);
+y %=2; //Mesma coisa que y = y % 2;
+Console.WriteLine(y);
+
+//Entrada de dados 
+Console.WriteLine("Digite seu nome: "); // Comando para exibir uma mensagem no console
+string nome = Console.ReadLine(); // Comando para entrada de dados - ReadLine() lê uma linha de entrada do console e armazena na variável "nome"
+Console.Write("Digite sua idade: "); // Comando para exibir uma mensagem no console
+int idade = int.Parse(Console.ReadLine()); // Conversao de string para inteiro - int.Parse() converte a entrada do usuário (string) para um número inteiro e armazena na variável "idade"
+
+Console.Write("Digite o seu salario: ");
+double salario = double.Parse(Console.ReadLine());
+Console.WriteLine($"Nome: {nome}, Idade {idade+1}, Salário = R$ {salario}");
