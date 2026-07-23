@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Atividade 01 - Estrutural sequencial de algoritmo em CSharp/Atividade01.csproj" Id="69c67378-d1d8-4cc3-a694-028f68163d41" />
+  <Project Path="Medidas/Medidas.csproj" Id="3d64a71d-734e-43a9-afc6-0d1949149bc6" />
   <Project Path="Operadores/Operadores.csproj" />
 </Solution>
