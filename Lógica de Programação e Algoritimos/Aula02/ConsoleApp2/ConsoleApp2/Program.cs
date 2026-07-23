@@ -1,5 +1,5 @@
 ﻿// Declaração de variaveis 
-double largura;
+/*double largura;
 double comprimento;
 double valor;
 double area;
@@ -19,3 +19,4 @@ preco = area * valor;
 
 // Saída de dados
 Console.WriteLine($"A área do terreno é: {area:n}\n O preço do terreno é: R$ {preco:n}");
+*/
