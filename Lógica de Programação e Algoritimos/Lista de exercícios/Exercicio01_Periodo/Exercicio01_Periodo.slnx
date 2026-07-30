@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Exercicio02_Salario/Exercicio02_Salario.csproj" />
+  <Project Path="Exercicio01_Periodo/Exercicio01_Periodo.csproj" />
+  <Project Path="Exercicio03_FolhaDePagamento/Exercicio03_FolhaDePagamento.csproj" />
+  <Project Path="Exercicio04_DiaSemana/Exercicio04_DiaSemana.csproj" />
+  <Project Path="Exercicio05_Triangulo/Exercicio05_Triangulo.csproj" />
+</Solution>
