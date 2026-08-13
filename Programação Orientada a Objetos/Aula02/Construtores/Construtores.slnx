@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aplicativo01/Aplicativo01.csproj" />
+  <Project Path="Aplicativo02/Aplicativo02.csproj" />
+  <Project Path="Aplicativo03/Aplicativo03.csproj" />
+  <Project Path="Estoque/Estoque.csproj" />
+</Solution>
