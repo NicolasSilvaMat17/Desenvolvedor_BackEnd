@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace Moeda
+﻿namespace Moeda
 {
     internal static class Dolares
     {
