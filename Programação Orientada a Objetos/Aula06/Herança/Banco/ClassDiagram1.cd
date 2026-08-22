@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banco.Classe.Entidade.Conta" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAAACAEAAAAAAAAAAAAAAAAAAAAEAAEAAAAGAAA=</HashCode>
+      <FileName>Classe\Entidade\Conta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Banco.Classe.Entidade.ContaEmpresa">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAEAAAAAAAAAAEAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classe\Entidade\ContaEmpresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banco.Classe.Entidade.ContaPoupanca">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classe\Entidade\ContaPoupanca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Banco.Interfaces.IOperacoes">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IOperacoes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
