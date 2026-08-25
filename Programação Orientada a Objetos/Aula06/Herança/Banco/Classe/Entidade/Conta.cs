@@ -40,12 +40,20 @@ namespace Banco.Classe.Entidade
         // Metodos
         public virtual void Saque(double quantia)
         {
-            SaldoDaConta -= quantia;
+            const double taxaSaque = 5.00;
+            SaldoDaConta -= quantia + taxaSaque;
         }
 
         public  void Deposito(double quantia)
         {
             SaldoDaConta += quantia;
+        }
+
+        public override string ToString()
+        {
+            return $"Dados da conta: \n" +
+                $"\t Titular da Conta: {TitularDaConta}\n" +
+                $"\t Saldo da Conta: {SaldoDaConta:F2}";
         }
     }
 }

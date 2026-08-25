@@ -28,8 +28,7 @@ namespace Banco.Classe.Entidade
         // Metodos
 
         public override void Saque(double quantia)
-        {
-            // Conta poupança: não é cobrada taxa sobre saque
+        { 
             SaldoDaConta -= quantia;
         }
 	}
