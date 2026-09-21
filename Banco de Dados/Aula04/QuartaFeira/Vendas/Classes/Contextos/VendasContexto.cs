@@ -19,6 +19,7 @@ namespace Vendas.Classes.Contextos
         {
             modeloDeConstrucao.Entity<Vendas1>(entidade =>
             {
+                entidade.ToTable("VendasMarket");
                 entidade.HasKey(e => e.Id);
                 entidade.Property(e => e.DataCompra);
                 entidade.Property(e => e.Tipo);
@@ -27,6 +28,7 @@ namespace Vendas.Classes.Contextos
                 entidade.Property(e => e.Lucro);
             });
         }
+
     }
 }
 
