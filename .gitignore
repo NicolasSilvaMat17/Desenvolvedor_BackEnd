@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Banco de Dados/Aula07/ERPVendas/SistemaERP/Classes/Contexto/ContextoUsuario1.txt
+/Banco de Dados/Aula07/ERPVendas/SistemaERP/Icones/olho fechado.png
