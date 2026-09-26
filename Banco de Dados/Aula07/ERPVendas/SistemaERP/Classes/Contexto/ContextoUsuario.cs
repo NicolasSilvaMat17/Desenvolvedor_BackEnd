@@ -8,22 +8,12 @@ namespace SistemaERP.Classes.Contexto
     {
         public DbSet<usuario> Usuarios { get; set; }
 
+
+        //Métodos
         protected override void OnConfiguring(DbContextOptionsBuilder opcoesDeConstrucao)
         {
-            string hostname = "dpg-daoqgcv40ujc7389oe40-a.orgegon-postgres.render.com";
-            string porta = "5432";
-            string nome_do_banco_de_dados = "dbdeevback";
-            string nome_do_usuario = "dbdeevback_user";
-            string senha = "GUHWLlYI3hevPtLx13drOvMB2ud5A6G8";
-
-            string string_de_conexao = $"" +
-                $"Host = {hostname};" +
-                $"Port = {porta};" +
-                $"Database = {nome_do_banco_de_dados};" +
-                $"Username = {nome_do_usuario};" +
-                $"Password = {senha};" +
-                $"SSL Mode=Require;" +
-                $"Trust Server Certificate=true";
+            string caminho = @"Server=ECFP507D1319387\SQLEXPRESS01;Database=dbevback;Trusted_Connection=True;TrustServerCertificate=True";
+            opcoesDeConstrucao.UseSqlServer(caminho);
         }
 
         protected override void OnModelCreating(ModelBuilder modeloDeConstrucao)

@@ -1,4 +1,6 @@
 using SistemaERP.Classes.Contexto;
+using SistemaERP.Classes.Entidades;
+using SistemaERP.Telas;
 
 namespace SistemaERP
 {
@@ -15,12 +17,19 @@ namespace SistemaERP
             ApplicationConfiguration.Initialize();
 
             ContextoUsuario contexto = new ContextoUsuario();
-            
+            contexto.Database.EnsureCreated();
+
+            ContextoUltimoUsuario usuario = new ContextoUltimoUsuario();
+            usuario.Database.EnsureCreated();
+
+            ContextoPessoacs pessoas = new ContextoPessoacs();
+            pessoas.Database.EnsureCreated();
+
             if (TestarConexaoBanco())
             {
-                Application.Run(new Login());
-                contexto.Database.EnsureCreated();
                 MessageBox.Show("Conexão bem sucedida");
+                //Application.Run(new Login());
+                Application.Run(new Registrar());
             }
             else
             {

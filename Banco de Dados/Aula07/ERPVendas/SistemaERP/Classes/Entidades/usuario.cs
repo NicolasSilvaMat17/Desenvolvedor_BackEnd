@@ -15,5 +15,10 @@
             SenhaDoUsuario = senhaDoUsuario;
             Regra = regra;
         }
+
+        protected usuario(string nomeDoUsuario)
+        {
+            NomeDoUsuario = nomeDoUsuario;
+        }
     }
 }
