@@ -16,11 +16,24 @@ namespace SistemaERP.Telas
             InitializeComponent();
         }
 
-       
+
 
         private void ERP_FormClosed(object sender, FormClosedEventArgs e)
         {
             TelaLogin.AbrirTela();
+        }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+            TelaLogin.AbrirTela();
+        }
+
+        private void aprovaçãoDeUsuárioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Aprovacao tela = new Aprovacao();
+            tela.Show();
         }
     }
 }
