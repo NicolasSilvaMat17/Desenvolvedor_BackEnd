@@ -73,6 +73,7 @@ Módulo com foco no desenvolvimento de aplicações que utilizam banco de dados 
 - UPDATE -> ATUALIZAR
 - DELETE -> DELETAR
 Com elaboração de algumas consultas (querys) SQL mas os projetos em sua maioria fora desenvolvidos com ORM -> Objeto Relacional Mapeado
+
 | Projeto | Status | Link |
 |---|---|---|
 | Aula01 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/Banco%20de%20Dados/Aula01/Segunda)
