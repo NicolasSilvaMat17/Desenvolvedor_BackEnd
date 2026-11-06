@@ -50,6 +50,7 @@ Módulo com foco em estudo dos conceitos da programação orientada a objetos, u
 - Herança;
 - Polimorfismo;
 - Abstração
+
 Além dos estudos das classes estáticas, enumerações, interfaces e relação de objetos.
 
 | Projeto | Status | Link |
@@ -86,6 +87,7 @@ Com elaboração de algumas consultas (querys) SQL mas os projetos em sua maiori
 
 ### Desenvolvimento de API REST
 Módulo para desenvolvimento de API REST, com operações CRUD utilizando protocolo HTTP com suporteao aplicativo Postman para testes de API, além da elaboração de documentação da API através de SWAGGER. Na última aula foi desenvolvido uma API  com operações CRUD incompleta com foco em geraçãode TOKENS através do JWT(JSon Web Token)
+
 | Projeto | Status | Link |
 |---|---|---|
 | Aula01 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/Desenvolvimento%20de%20API/Aula01/APIPessoas)
