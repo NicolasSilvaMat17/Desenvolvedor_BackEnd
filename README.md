@@ -72,6 +72,7 @@ Módulo com foco no desenvolvimento de aplicações que utilizam banco de dados 
 - READ -> LER
 - UPDATE -> ATUALIZAR
 - DELETE -> DELETAR
+  
 Com elaboração de algumas consultas (querys) SQL mas os projetos em sua maioria fora desenvolvidos com ORM -> Objeto Relacional Mapeado
 
 | Projeto | Status | Link |
