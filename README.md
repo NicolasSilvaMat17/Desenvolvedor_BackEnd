@@ -17,13 +17,13 @@ Este repositório reune exercícios e projetos práticos organizadas por módulo
 - Banco de dados utilizando a técnica ORM
 - Desenvolvimento de API's
 
-## Técnologias utilizadas 
+## 💻 Técnologias utilizadas 💻 
 
 - **C#**
 - **SQL**
 
 ## Projetos por módulo
 ### Lógica de programação e algorítimos
-
+| Projeto | Status | Link |
 |---|---|---|
 | Aula01 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula01)
