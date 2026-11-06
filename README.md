@@ -1,3 +1,4 @@
+
 # Desenvolvedor Back-End - Turma 176A.DBKE.2N26
 Repositório com as atividades desenvolvidas no curso do **SENAI de Americana** paa a qualificação em **Desenvolvimento Back-End**
 ## 🎯 Objetivo do curso 🎯
@@ -27,3 +28,14 @@ Este repositório reune exercícios e projetos práticos organizadas por módulo
 | Projeto | Status | Link |
 |---|---|---|
 | Aula01 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula01)
+| Aula02 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula02/ConsoleApp2)
+| Aula03 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula03/Operadores)
+| Aula04 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula04/SextaFeira)
+| Aula05 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula05/Segunda)
+| Aula06 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula06/Lanchonete)
+| Aula07 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula07/Segunda)
+| Aula08 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula08/Quarta)
+| Aula09 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula09)
+| Aula10 | ✅ Concluído | [Abrir](https://github.com/NicolasSilvaMat17/Desenvolvedor_BackEnd/tree/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20e%20Algoritimos/Aula10/UltimaAula)
+
+
